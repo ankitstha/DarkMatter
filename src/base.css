@@ -149,6 +149,7 @@ ul[data-list-id='guildsnav'] {
 	background-color: rgba(var(--md-black), 0.6);
 	border-right: 1px solid rgba(var(--md-black), 0.2);
 	box-shadow: inset -10px 0px 20px -10px rgba(var(--md-black), 0.3);
+	border-radius: 10px;
 }
 
 ul[data-list-id='guildsnav'] ::-webkit-scrollbar {
